@@ -1,4 +1,4 @@
-from dsa103.chemistry_tools import calculate_molecular_formula
+from src/dsa103.chemistry_tools import calculate_molecular_formula
 
 
 def test_calculate_molecular_formula():
